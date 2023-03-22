@@ -5,6 +5,7 @@ body {
 
 .titulo {
     text-align: center;
+    text-shadow: 10px 10px 11px #000000;
 }
 
 .descripcion {
@@ -37,9 +38,22 @@ body {
 }
 
 .enlace_proyectos{
-    align-content: space-between;
+    padding-left: 110px;
 }
 
 .enlace_github {
-    align-content: space-between;
+    padding-left: 700px;
+}
+
+.skills {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.hobbies {
+    text-align: center;
+}
+
+.curriculum {
+    text-align: center;
 }
