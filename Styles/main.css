@@ -1,0 +1,77 @@
+/*Estilos correspondientes al main*/                                                                  
+.descripcion {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 50px;
+
+}
+
+.foto_perfil {
+    position: relative;
+    top: 20px;
+    max-width: 320px;
+    max-height: 300px;
+    border-radius: 20%;
+    
+}
+
+.parrafo_1 {
+    width: 500px;
+    margin-top: 20px;
+    margin-left: 80px;
+    font-size: 1.2em;
+    text-align: justify;
+}
+
+.habilidades_blandas {
+    margin-left: 150px;
+    margin-top: 25px;
+    font-size: 1.2em;
+    width: 500px;
+}
+
+.proyectos {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 350px;
+    font-size: 25px;
+}
+
+.enlace_proyectos{
+    margin-left: 110px;
+    justify-content: center;
+}
+
+.enlace_github {
+    margin-left: 300px;
+    margin-bottom: 60px;
+}
+
+.skills {
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.front {
+    margin-left: 170px;
+}
+
+.back {
+    margin-left: 80px;
+}
+
+.herramientas {
+    margin-left: 80px;
+}
+
+.hobbies {
+    align-items: center;
+    margin-top: 60px;    
+}
+
+.curriculum {
+    text-align: center;
+    margin-top: 40px;
+    height: 200px;
+}
